@@ -1,4 +1,6 @@
-package com.company;
+package basic;
+
+import basic.Bloc;
 
 import java.util.Scanner;
 

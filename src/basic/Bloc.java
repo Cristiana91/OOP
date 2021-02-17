@@ -1,4 +1,4 @@
-package com.company;
+package basic;
 
 public class Bloc {
     private String scara;
