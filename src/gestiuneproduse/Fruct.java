@@ -8,6 +8,11 @@ public class Fruct extends Produs{
         super(nume, pret, producator);
     }
 
+    @Override
+    public String getCategorie() {
+        return "Fruct";
+    }
+
     public boolean isBio() {
         return bio;
     }
